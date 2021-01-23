@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "BlogPage"
+  "defaultProject": "BlogPage",
+  "cli": {
+    "analytics": false
+  }
 }
